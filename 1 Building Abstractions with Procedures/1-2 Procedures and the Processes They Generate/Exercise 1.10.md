@@ -64,7 +64,7 @@ Solutions
 ```
 
 ```latex
-f_n = 2n
-g_n = 2^n
-h_n = 2^{2^n}
+f(n) = 2n
+g(n)= 2^n
+h(n) = 2^2^2...^2 (total n)
 ```
