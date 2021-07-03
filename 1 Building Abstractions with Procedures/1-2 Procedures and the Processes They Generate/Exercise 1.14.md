@@ -26,4 +26,4 @@ For reference,
 
 Solutions
 ---------
-[![wda.md.jpg](https://im.rython.xyz/images/2021/06/25/wda.md.jpg)](https://im.rython.xyz/image/dXd)
+![sicp.png](https://im.rython.xyz/images/2021/07/03/sicp.png)
