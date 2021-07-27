@@ -45,11 +45,13 @@ a. Start calculating from *k*-term, it is rather easy to define
 ```scheme
 ;; recursive process
 (define (cont-frac n d k)
-  (if (< k 1)
-      0
-      (/ (n k) 
-         (+ (d k) 
-            (cont-frac n d (- k 1))))))
+  (define (cont-frac-i n d k i)
+    (if (> i k)
+        0
+        (/ (n i) 
+           (+ (d i) 
+              (cont-frac-i n d k (+ i 1))))))
+  (cont-frac-i n d k 1))
 ```
 
 , and using successive *k* to approximate ![1phi][3], we can see at least *k >= 11* can we get an approximation that is accurate to 4 decimal places.
