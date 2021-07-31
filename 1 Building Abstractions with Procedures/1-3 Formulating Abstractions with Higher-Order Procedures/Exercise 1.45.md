@@ -48,7 +48,7 @@ References
 
 Solutions
 ---------
-Firsr, we define a general method to compute *n*-th root with repeated average-damping *m* times.
+First, we define a general method to compute *n*-th root with repeated average-damping *m* times.
 
 ```scheme
 (define (repeated-nth-root x n m)
