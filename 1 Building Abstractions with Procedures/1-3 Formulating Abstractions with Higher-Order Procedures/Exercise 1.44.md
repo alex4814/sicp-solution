@@ -10,8 +10,12 @@ Show how to generate the *n*-fold smoothed function of any given function using 
 References
 ----------
 ```scheme
+;;;Exersice 1.42
+
 (define (compose f g)
   (lambda (x) (f (g x))))
+
+;;;Exercise 1.43
 
 (define (repeated f n)
   (if (= n 1)
