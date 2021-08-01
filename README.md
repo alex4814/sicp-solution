@@ -45,4 +45,4 @@ This repository (at first) is chiefly served as a log of learning progress.
 - 2018-05-11 The Big Bang
 - 2018-06-02 Finish reading chapter 1 with all exercises
 - 2021-05-28 Revisit
-
+- 2021-08-01 Chapter 1 completed with all exercises
