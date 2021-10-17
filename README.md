@@ -26,7 +26,7 @@ It ships with `mit-scheme/stable 10.1.5-1 amd64` at the time being (May, 2021).
 
 ## Online Materials
 ### Web Site
-The [official site](https://mitpress.mit.edu/sites/default/files/sicp/index.html) provides supplementary materials for self-study. Have a look! 
+The [official site](https://mitpress.mit.edu/sites/default/files/sicp/index.html) provides supplementary materials for self-study. Have a look!
 
 ### E-book
 The web site has already provided a free [html version](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) of text, however, a well type-setting [PDF version](https://github.com/sarabander/sicp-pdf) is also an option.
@@ -40,9 +40,10 @@ Check that before you move on.
 
 
 ## Milestones
-This repository (at first) is chiefly served as a log of learning progress. 
+This repository (at first) is chiefly served as a log of learning progress.
 
 - 2018-05-11 The Big Bang
 - 2018-06-02 Finish reading chapter 1 with all exercises
 - 2021-05-28 Revisit
 - 2021-08-01 Chapter 1 completed with all exercises
+- 2021-10-16 Beginning Chapter 2
